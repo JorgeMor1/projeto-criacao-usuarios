@@ -1,0 +1,5 @@
+javascriptCopiar código
+*.class
+/bin/
+/build/
+/out/
